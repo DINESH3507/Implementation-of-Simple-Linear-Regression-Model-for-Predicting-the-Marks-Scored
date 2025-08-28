@@ -94,30 +94,39 @@ print("RMSE = ",rmse)
 
 ## Output:
 HEAD
+
 <img width="237" height="133" alt="Screenshot from 2025-08-28 14-54-55" src="https://github.com/user-attachments/assets/de4cd4ed-43be-462a-8114-e2b6a71e8a5c" />
 
 TAIL
+
 <img width="237" height="133" alt="Screenshot from 2025-08-28 14-55-05" src="https://github.com/user-attachments/assets/cd5881f1-0287-4bb3-a40a-5f95bc92399f" />
 
 X VALUE
+
 <img width="256" height="461" alt="Screenshot from 2025-08-28 14-55-34" src="https://github.com/user-attachments/assets/409fc0ad-9f06-4153-89be-fe7b45cbb9a4" />
 
 Y VALUE
+
 <img width="661" height="49" alt="Screenshot from 2025-08-28 20-52-06" src="https://github.com/user-attachments/assets/1fcb4809-b057-43a4-b8ac-10144e8e9c17" />
 
 PRED
+
 <img width="661" height="49" alt="Screenshot from 2025-08-28 20-52-18" src="https://github.com/user-attachments/assets/c4e97425-64dd-49c7-a13d-b2b76264dc8f" />
 
 TEST
+
 <img width="661" height="49" alt="Screenshot from 2025-08-28 20-52-38" src="https://github.com/user-attachments/assets/0cebe958-c4a3-4107-87a1-7507d4b79867" />
 
 TRAINING
+
 <img width="594" height="469" alt="Screenshot from 2025-08-28 20-53-44" src="https://github.com/user-attachments/assets/9f6c8aa8-d235-4556-a41f-a01a8adab6f8" />
 
 TESTING
+
 <img width="594" height="469" alt="Screenshot from 2025-08-28 20-54-01" src="https://github.com/user-attachments/assets/a7f1dd9d-aad9-4784-8782-98c63000be7f" />
 
 MSE MAE RMSE
+
 <img width="286" height="91" alt="Screenshot from 2025-08-28 20-54-19" src="https://github.com/user-attachments/assets/82113b92-3884-44fb-a04f-78d6e3e989e0" />
 
 
